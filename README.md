@@ -43,6 +43,3 @@ python ai_news_aggregator.py
 - Add a web-based UI for better user interaction.
 - Support multiple languages.
 - Integrate with social media for trend analysis.
-
-## License
-This project is open-source and available under the MIT License.
